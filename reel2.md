@@ -4,12 +4,12 @@
 
 👤 **Person 1:**  
 *"Data Science aur AI mein future hai...  
-lekin roadmap koi clearly batata hi nahi!  
-Aur agar maine abhi AI aur Data Science nahi seekha na,  
-toh future mein job bhi mushkil hai..."*
+lekin roadmap batane wala kon bhi nahi hai!  
+Aur agar maine abhi AI aur Data Science nahi seekha,  
+toh future mein job bhi milna mushkil hai..."*
 
 👥 **Person 2:**  
-*"Arey bhai! Pioneer AI Academy leke aaya hai  
+*"Arey bhai! Pioneer AI Academy leke aaya
 Full Stack Data Science with AI course!"*
 
 👤 **Person 1:**  
@@ -20,18 +20,18 @@ Full Stack Data Science with AI course!"*
 Even ChatGPT aur Computer Vision. All in one course!"*
 
 👤 **Person 1:**  
-*"Bhai, lekin mai beginner hu… tough toh nahi hoga?"*
+*"Bhai, lekin mai beginner hu… tough toh nahi rahingana?"*
 
 👥 **Person 2:**  
 *"Bilkul nahi!  
-Woh log pura scratch se start karte,  
-SQL aur Maths basics bhi cover hota hai."*
+Woh loga pura scratch se start karte,  
+SQL aur Maths basics bhi cover hota ."*
 
 👤 **Person 1:**  
 *"Job guarantee bhi hai kya?"*
 
 👥 **Person 2:**  
-*"Haan bhaiya!  
+*"Hao bhaiya!  
 Live projects, resume prep, aur placement support bhi milega."*
 
 ---
